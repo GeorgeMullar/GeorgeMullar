@@ -1,6 +1,9 @@
 * 👋 Hi there I am @GeorgeMullar
 * 🔭 I’m interested in Web Devlopment
 * 🌱 I’m currently learning Software Development
+
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeMullar)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GeorgeMullar/GeorgeMullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
