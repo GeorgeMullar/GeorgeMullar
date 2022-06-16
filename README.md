@@ -1,6 +1,6 @@
 * 👋 Hi there I am @GeorgeMullar
 * 🔭 I’m interested in Web Devlopment
-🌱 I’m currently learning Software Development
+* 🌱 I’m currently learning Software Development
 <!--
 **GeorgeMullar/GeorgeMullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
